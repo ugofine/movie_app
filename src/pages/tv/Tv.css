@@ -1,0 +1,5 @@
+.tv{
+    display: flex;
+    flex-wrap: wrap !important;
+    justify-content: space-around;
+}
