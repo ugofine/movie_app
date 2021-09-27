@@ -6,10 +6,6 @@ import './Tv.css';
 
 
 
-
-
-
-
 const Tv = () => {
 
     const [content, setContent] = useState ([])
