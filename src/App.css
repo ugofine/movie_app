@@ -61,7 +61,7 @@
 }
 @media(max-width: 768px){
   .app{
-    padding: 20px;
+    padding: 10px;
   }
   .pagetitle{
     font-size: 20px;
