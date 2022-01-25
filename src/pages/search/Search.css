@@ -1,4 +1,9 @@
 .search{
     display: flex;
     margin: 15px;
+    padding-top: 55px;
+}
+
+.searchBox{
+    padding-top: 20px;
 }
